@@ -1,4 +1,4 @@
-Hi 👋 My name is Khoa Vo
+Hi 👋 
 ========================
 
 Web Developer
