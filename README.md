@@ -1,15 +1,13 @@
-Hi 👋 
+Hello
 ========================
 
-Web Developer
+Machine Learning and Deep Learning Student
 -------------
 
 I started learning coding last year. I started with HTML and CSS but I really enjoyed learning python and plan to learning more languages for back-end developement.
 
 * 🌍  I'm based in Washington
 * ✉️  You can contact me at [corrze620@gmail.com](mailto:corrze620@gmail.com)
-* 🧠  I'm learning Python and Java
-* ⚡  I want to make my own video game one point.
 
 ### Skills
 
