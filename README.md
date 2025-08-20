@@ -10,5 +10,5 @@ I started learning programming roughly two years ago. I started with HTML/CSS an
 *  I am basde in Seattle, WA!
 *  I play gacha games
 *  I like tennis
-*  Check out my website [corrzeweb.com](href="https://corrzeweb.com/")
+*  Check out my website [corrzeweb.com](https://corrzeweb.com/)
 *  You can contact me at [corrze620@gmail.com](mailto:corrze620@gmail.com)
