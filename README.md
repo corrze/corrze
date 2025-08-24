@@ -1,4 +1,4 @@
-Hello!
+Hello! I am Khoa
 -------------
 
 I started learning programming roughly two years ago. I started with HTML/CSS and JavaScript, designing and coding up forms registration forms and webpages for my highschool clubs. I learned java through my studies at Green River College. I explored more programming languages such as C, C++, Python, and TypeScript in my courses at the University of Washington. I would like to improve and work on my Python and SQL so I can explore more about Machine Learning, Deep Learning, Computer Vision, and Reinforcement Learning.
